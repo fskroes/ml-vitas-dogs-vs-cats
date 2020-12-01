@@ -1,0 +1,6 @@
+.DS_Store
+input/*
+config.json
+logs/*
+*.pdf
+saved-models/*
