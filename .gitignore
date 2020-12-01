@@ -4,3 +4,4 @@ config.json
 logs/*
 *.pdf
 saved-models/*
+training_2/*
