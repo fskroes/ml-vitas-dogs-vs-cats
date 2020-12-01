@@ -5,3 +5,4 @@ logs/*
 *.pdf
 saved-models/*
 training_2/*
+.vscode/settings.json
